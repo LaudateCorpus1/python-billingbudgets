@@ -1,4 +1,11 @@
 # Changelog
+## [1.6.0](https://github.com/googleapis/python-billingbudgets/compare/v1.5.1...v1.6.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#169](https://github.com/googleapis/python-billingbudgets/issues/169)) ([93a52a9](https://github.com/googleapis/python-billingbudgets/commit/93a52a9060968a95956f9ec5b7cd7a2ed0fcfce7))
+
 ### [1.5.1](https://www.github.com/googleapis/python-billingbudgets/compare/v1.5.0...v1.5.1) (2021-11-01)
 
 
